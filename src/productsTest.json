@@ -1,0 +1,27 @@
+[
+    {"id":"62fe390e-22fb-4f1c-a2f9-dac940a59e4f",
+        "name":"Adidas Yeezy Boost 350 v2 Beluga",
+        "description":"Released on February 25, 2017, the Yeezy Boost 350 V2 ‘Zebra’ combines a white/core black Primeknit upper with red SPLY 350 branding and a translucent white midsole housing full-length Boost. Sold exclusively at adidas.com, Yeezy Supply, and select adidas flagship stores, the ‘Zebra’ sold out instantly but was restocked on June 24th, 2017. Another restock of the ‘Zebra’ arrived November 16, 2018, with more pairs hitting the marketplace and delivering on Kanye’s promise of Yeezy’s being more accessible to anyone that wanted them.",
+        "code":"NS0122",
+        "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/581/688/products/aybg_51-a96a2913b9a69d2b3116159773583932-1024-1024.jpg",
+        "price":450,"stock":8,"timestamp":1650802104128
+    },
+        {"id":"be937b66-b29a-40a7-a6b7-31fb0d38b940",
+            "name":"Adidas Forum High 84",
+            "description":"As part of series of revivals, Adidas brought the Forum 84 High in its original colorway. The Adidas Forum 84 High OG flaunts a white-dominated upper added with hints of blue panels. Adidas added an aged-look, such as off-white tinted laces and rugged blue suede overlays for an authentic throwback vibe.",
+            "code":"NS0122",
+            "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/43f112d12fea4c098b8aad8a00ebadda_9366/Zapatillas_Forum_Hi_84_Young_Star-Lord_Blanco_GW5451_01_standard.jpg",
+            "price":96999.99,
+            "stock":8,
+            "timestamp":1650802039560
+        },
+        {"id":"0578a5d7-45b0-40cd-8881-0d00be11be52",
+            "name":"Nike Blazer Mid 77",
+            "description":"As one of the first Nike basketball sneakers ever released, the Nike Blazer has a long heritage. The Nike Blazer Mid ’77 Vintage ‘White Black’ pays homage to its history with an old-school look. The upper comes in white leather, with an OG Swoosh taking up the side, and a deconstructed tongue with vintage branding. Two forefoot overlays come in a hairy tonal suede, and the rear branding features a distressed ‘NIKE’ logo.",
+            "code":"MKD008",
+            "image":"https://static.runnea.com/images/202109/nike-blazer-mid-77-hombre-400x400x80xX.jpg?1",
+            "price":15900,
+            "stock":8,
+            "timestamp":1650802275166
+        }
+    ]
